@@ -44,7 +44,7 @@ class Program
                 int aux = 1;
                 aux++;
                 nombres[i].Insert(i, arrayProvincias[aux]);
-                Console.WriteLine("Par");
+                
                 
 
             }
@@ -53,7 +53,7 @@ class Program
                 int aux01 = 2;
                 aux01++;
                 nombres[i].Insert(i, arrayNumero[aux01]);
-                Console.WriteLine("Impar");
+                
 
             }
 
